@@ -1,4 +1,4 @@
-# Learnings from Mail Delivery System Project
+# Learnings
 
 During the development of the **SmartMailOps-Data-Delivery-Management** using Informatica IICS, we gained hands-on experience with a wide range of **data transformation techniques** and **ETL concepts**. Below is a structured summary of the learnings:
 

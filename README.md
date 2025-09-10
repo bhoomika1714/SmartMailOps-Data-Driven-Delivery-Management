@@ -31,7 +31,9 @@ This section outlines the key data transformations implemented in the *SmartMail
 - **Benefits:**  
   - Supports budgeting decisions  
   - Identifies high-performing locations  
-  - Aids in effective resource allocation  
+  - Aids in effective resource allocation
+    <img width="1003" height="167" alt="image" src="https://github.com/user-attachments/assets/10bfab83-d56d-4085-92cb-641295171278" />
+ 
 
 ---
 
@@ -40,7 +42,9 @@ This section outlines the key data transformations implemented in the *SmartMail
 - **Benefits:**  
   - Enables delivery performance audits  
   - Identifies operational inefficiencies  
-  - Ensures accountability and service improvements  
+  - Ensures accountability and service improvements
+  <img width="1017" height="216" alt="image" src="https://github.com/user-attachments/assets/f03c8ef1-5d4b-4c1d-9f2b-80d55a0fa1db" />
+
 
 ---
 
@@ -50,7 +54,10 @@ This section outlines the key data transformations implemented in the *SmartMail
   - Identifies high-cost delivery routes  
   - Supports delivery path optimization  
   - Aids in cost-reduction strategies  
-  - Enhances logistics planning  
+  - Enhances logistics planning
+  
+<img width="969" height="154" alt="image" src="https://github.com/user-attachments/assets/e885ed5c-f4e5-4919-9621-ee948a82b6ea" />
+ 
 
 ---
 
@@ -61,6 +68,7 @@ This section outlines the key data transformations implemented in the *SmartMail
   - Improves workforce planning  
   - Enables targeted managerial oversight  
   - Assists in strategic resource deployment  
+<img width="933" height="224" alt="image" src="https://github.com/user-attachments/assets/2ecc1a72-4545-495b-9b90-01614bdd5988" />
 
 ---
 

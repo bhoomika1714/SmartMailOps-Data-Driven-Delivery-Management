@@ -70,6 +70,7 @@ This section outlines the key data transformations implemented in the *SmartMail
   - Ensures timely handling of express deliveries  
   - Enables express service performance tracking  
   - Supports analysis of express delivery trends  
+<img width="761" height="147" alt="image" src="https://github.com/user-attachments/assets/5ce06941-a71a-4b11-9385-cd415965bb44" />
 
 ---
 
@@ -79,7 +80,9 @@ This section outlines the key data transformations implemented in the *SmartMail
   - Uses **Sequence + Expression** transformations  
   - Eliminates manual errors  
   - Ensures consistency with business standards  
-  - Streamlines tracking processes  
+  - Streamlines tracking processes
+  <img width="806" height="110" alt="image" src="https://github.com/user-attachments/assets/d5b3e4bd-02f0-437f-9079-72a6ce44b1f2" />
+
 
 ---
 
@@ -89,8 +92,19 @@ This section outlines the key data transformations implemented in the *SmartMail
   - Supports targeted communication  
   - Enables gender-based marketing strategies  
   - Assists in demographic analysis  
-  - Enhances customer segmentation  
+  - Enhances customer segmentation
+    <img width="842" height="120" alt="image" src="https://github.com/user-attachments/assets/0467ae7a-e44d-49a2-ab4d-2ce668244432" />
+ 
 
 ---
 
 ## Use Case 8: Branch-Wise Revenue Analysis through Service and Bi
+- **Purpose:** Combine service charges and billing data for revenue insights.  
+- **Benefits:**  
+  - Provides comprehensive financial reporting  
+  - Monitors branch-wise service performance  
+  - Identifies revenue trends  
+  - Facilitates executive-level data-driven decisions with visual dashboards
+    <img width="789" height="202" alt="image" src="https://github.com/user-attachments/assets/fa2c2c43-88f4-4380-8fb1-05ee8cc37332" />
+
+---
